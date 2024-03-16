@@ -2,7 +2,7 @@
 title: Управление версиями. Git.
 
 # Summary for listings and search engines
-summary: Здесь я расскажу про мою прошедшую неделю.
+summary: Здесь я расскажу про cистему управления версиями.
 
 # Link this post with a project
 projects: []
