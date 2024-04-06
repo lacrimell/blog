@@ -62,27 +62,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Частный репетитор по математике
+          company: Самозанятость
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: Russia
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Help with learning math
+              * Help with homework
+        - title: Художник
+          company: Самозанятость
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: 
+          date_start: '2012-03-06'
+          date_end: ''
+          description: I can draw you for money
     design:
       columns: '2'
   - block: accomplishments
@@ -98,32 +97,32 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-04-29'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: graduation-cap
+          organization: Министерство просвещения РФ
+          organization_url: https://vserosolimp.edsoo.ru/
+          title: Призёр ВСОШ по МХК
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url:
+          date_end: '2023-04-30'
+          date_start: '2022-09-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: graduation-cap
+          organization: ФИСТ компьютерная школа
+          organization_url: https://ulstu.ru/
+          title: Программирование игр на платформе Unity
+          url: ''
+        - certificate_url:
+          date_end: '2019-05-30'
+          date_start: '2015-09-01'
+          description: ''
+          icon: graduation-cap
+          organization: МБУ ДО ДШИ №8 г. Ульяновска
+          organization_url: https://dshi8.uln.muzkult.ru/
+          title: Дополнительная предпрофессиональная общеобразовательная программа в области изобразительного искусства "Живопись"
           url: ''
     design:
       columns: '2'

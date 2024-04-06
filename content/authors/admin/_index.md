@@ -3,7 +3,7 @@
 title: Калашникова Ольга Сергеевна
 
 # Name pronunciation (optional)
-name_pronunciation: Olga Kalashnikova
+name_pronunciation: Kalashnikova Olga Sergeevna
 
 # Full name (for SEO)
 first_name: Калашникова Ольга
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студентка
+role: Студентка ФФМиЕН РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,37 +46,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: git
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 30
+        icon: git
+        icon_pack: fab
+      - name: c#
         description: ''
         percent: 40
-        icon: database
+        icon: hashtag
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Drawing
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 20
+        icon: paint-brush
         icon_pack: fas
-      - name: Cats
+      - name: learning french
         description: ''
-        percent: 100
-        icon: cat
+        percent: 10
+        icon: language
         icon_pack: fas
-      - name: Photography
+      - name: gaming
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 40
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
