@@ -1,17 +1,17 @@
 ---
-title: Язык разметки Markdown.
+title: Управление версиями. Git.
 
 # Summary for listings and search engines
-summary: Здесь я расскажу про язык разметки Markdown..
+summary: Здесь я расскажу про cистему управления версиями.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2024-03-24T00:00:00Z'
+date: '2024-03-12T00:00:00Z'
 
 # Date updated
-lastmod: '2024-03-24T00:00:00Z'
+lastmod: '2024-03-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
